@@ -5,3 +5,4 @@ def handler():
     print("Hello from insecure code!")
 
 handler()
+
