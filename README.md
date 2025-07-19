@@ -1,4 +1,4 @@
-# DevSecOps Pipeline Demo
+# DevSecOps Pipeline
 
 This project demonstrates a practical and automated approach to securing cloud infrastructure and CI/CD pipelines using DevSecOps best practices. It includes auditing AWS cloud resources, securing CI/CD workflows, automating security checks, and enforcing security policies.
 
