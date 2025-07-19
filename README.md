@@ -6,7 +6,7 @@ This project demonstrates a practical and automated approach to securing cloud i
 
 ## Project Overview
 
-The goal of this demo is to showcase how to integrate continuous security into development and deployment workflows by:
+The goal of this is to showcase how to integrate continuous security into development and deployment workflows by:
 
 - Auditing and securing AWS cloud infrastructure
 - Implementing secure CI/CD pipelines with automated security scans
